@@ -5,8 +5,8 @@ const Header = () => {
     <div>
       <header>
         {/* Your header content goes here */}
-        <h1>Anthony Ciccone</h1>
-        <p>Thanks for visiting my page! I am a new developer looking to increase my forever expanding skill set.</p>
+        <h1>stuff</h1>
+        <p>more stuff</p>
       </header>
     </div>
   );

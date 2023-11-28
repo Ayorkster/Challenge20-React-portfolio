@@ -22,7 +22,7 @@ const MyPage = () => {
       />
 
       {/* Make the GitHub logo clickable */}
-      <a href="https://github.com/anthonyciccone90" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/ayorkster" target="_blank" rel="noopener noreferrer">
         <img id='GitHubLogo' src={GithubLogo} alt="GitHub Logo" />
       </a>
 
