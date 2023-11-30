@@ -2,11 +2,10 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div>
+    <div id='header'>
       <header>
-        {/* Your header content goes here */}
-        <h1>stuff</h1>
-        <p>more stuff</p>
+        <h1>Alaina York</h1>
+     
       </header>
     </div>
   );
