@@ -12,4 +12,4 @@ This is a profile exibiting my ability and the things ive learned while attendin
 
   
   ## Deployment Links
-  [Netlify](#alainas-react-profile.netlify.app)
+  [Netlify](alainas-react-profile.netlify.app)
