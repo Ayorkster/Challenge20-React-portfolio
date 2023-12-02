@@ -11,4 +11,5 @@ This is a profile exibiting my ability and the things ive learned while attendin
   ## Installation
 
   
-  ## Usage
+  ## Deployment Links
+  [Netlify](#alainas-react-profile.netlify.app)
