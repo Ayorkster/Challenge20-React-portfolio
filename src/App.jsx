@@ -6,7 +6,7 @@ import PortfolioPage from './pages/Portfolio';
 import Resume from './pages/resume';
 import Footer from '../src/components/Footer';
 import Contact from './pages/constactme';
-import "../css/style.css?inline"
+import "../css/style.css"
 
 const App = () => {
   return (
