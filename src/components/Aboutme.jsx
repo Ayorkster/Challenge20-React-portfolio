@@ -3,6 +3,7 @@ import Navigation from "./Nav";
 import Footer from "./Footer";
 import Header from "./Header";
 import profilepic from "../images/profile pic2.png"
+import "../css/style.css";
 const Portfolio = ({ title, description, imageUrl }) => {
   return (
     <div>

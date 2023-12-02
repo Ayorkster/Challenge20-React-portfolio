@@ -1,6 +1,7 @@
 import React from "react";
 import Github from "../images/github-mark.png";
 import Linkedin from "../images/LI-In-Bug.png"
+import "../css/style.css";
 
 const Footer = () => {
   return (

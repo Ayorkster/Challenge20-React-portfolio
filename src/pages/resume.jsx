@@ -3,6 +3,7 @@ import Footer from '../components/Footer';
 import Navigation from "../components/Nav";
 import Header from "../components/Header"
 import  ResumeFile  from "../images/Alaina-York resume 4_16.pdf";
+import "../css/style.css";
 
 
 const Resume = () => {

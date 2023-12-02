@@ -9,6 +9,7 @@ import Password from "../images/Screenshot (6)2.png";
 import Planner from "../images/Screenshot 2023-11-30 143045.png";
 import MTG from "../images/Screenshot 2023-10-13 at 12.15.55.png";
 import Navigation from "../components/Nav";
+import "../css/style.css";
 
 const Project = ({ title, repoLink, deployedLink, image }) => {
   const [isHovered, setIsHovered] = useState(false);

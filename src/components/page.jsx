@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './Header';
 import Portfolio from './Aboutme';
+import "../css/style.css";
 // import GithubLogo from '../../images/github-logo.png'
 
 
