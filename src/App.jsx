@@ -1,10 +1,10 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import MyPage from './components/page';
-import AboutMe from './components/Aboutme';
+import MyPage from '../src/components/page';
+import AboutMe from '../src/components/Aboutme';
 import PortfolioPage from './pages/Portfolio';
 import Resume from './pages/resume';
-import Footer from './components/Footer';
+import Footer from '../src/components/Footer';
 import Contact from './pages/constactme';
 import CSS from './css/style.css'
 

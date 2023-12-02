@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from '../components/Header';
+import Header from './Header';
 import Portfolio from './Aboutme';
 // import GithubLogo from '../../images/github-logo.png'
 

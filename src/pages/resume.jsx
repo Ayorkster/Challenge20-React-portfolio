@@ -1,5 +1,5 @@
 import React from "react";
-import Footer from "../components/Footer";
+import Footer from '../components/Footer';
 import Navigation from "../components/Nav";
 import Header from "../components/Header"
 import  ResumeFile  from "../images/Alaina-York resume 4_16.pdf";
