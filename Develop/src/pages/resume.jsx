@@ -2,7 +2,7 @@ import React from "react";
 import Footer from "../components/Footer";
 import Navigation from "../components/Nav";
 import Header from "../components/Header"
-
+import  ResumeFile  from "../images/Alaina-York resume 4_16.pdf";
 
 
 const Resume = () => {
@@ -11,7 +11,7 @@ const Resume = () => {
       <Navigation />
       <br />
       <h2 class="page-titles">Resume</h2>
-      <div class="resum"><div class="resumetext"> <p class="text">
+     <div class="resumetext"> <p class="text">
         Front-End Proficiencies:
         <ul class="proficiencies">
           <li>HTML</li>
@@ -32,13 +32,14 @@ const Resume = () => {
         </ul>
       </p>
       </div>
-      
-      <p id="blurb" class="text">A passionate and adaptable coding bootcamp graduate with a decade of digital art experience, a decade of dog training expertise, and over 15 years of animal care and customer service skills, seeking to leverage diverse talents and newly acquired technical skills.
-      <br />
-      <br />
-      <h3 >Experiance:</h3>
+      <p className="text">
+        You can download my résumé{" "}
+        <a href={ResumeFile} download>
+          here
+        </a>
+        {""}.
       </p>
-      </div>
+      
 
       <Footer />
     </div>
